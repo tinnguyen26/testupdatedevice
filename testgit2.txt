@@ -1,2 +1,2 @@
-nguyen trung tin
+trung tin
 test git
