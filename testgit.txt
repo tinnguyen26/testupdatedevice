@@ -1,2 +1,2 @@
-tin dep trai
+tin qua dep trai
 hello nguyen trung tin
